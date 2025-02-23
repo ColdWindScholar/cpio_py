@@ -13,7 +13,7 @@ CPIO_FULL_PERMISSION = 0o7777
 class CpioMagicFormat(Enum):
     New = b'070701'
     Crc = b'070702'
-    # I'm Not Intend To Support Old Format.
+    # I'm not intend to support old format.
     Old = b'070707'
 
 

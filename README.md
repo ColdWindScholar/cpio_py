@@ -1,2 +1,2 @@
 # cpio_py
-the cpio extracter and repacker achieve in python
+the cpio extracter and repacker implement in python
